@@ -1,0 +1,42 @@
+[
+  {
+    "first-name": "Iryna",
+    "last-name": "Shovdra",
+    "age": "15",
+    "course": "Frontend",
+    "faculty": "Instructor",
+    "course-list": "English, Math, IT"
+  },
+  {
+    "first-name": "Veronika",
+    "last-name": "Vaida",
+    "age": "15",
+    "course": "English",
+    "faculty": "Professor",
+    "course-list": "English, Math"
+  },
+  {
+    "first-name": "Halia",
+    "last-name": "Zabihailo",
+    "age": "16",
+    "course": "Python",
+    "faculty": "Professor",
+    "course-list": "Maths, Robotics, English, Python"
+  },
+  {
+    "first-name": "Liza",
+    "last-name": "Babinska",
+    "age": "15",
+    "course": "PE",
+    "faculty": "Instructor",
+    "course-list": "PE, English, Maths, Physics"
+  },
+  {
+    "first-name": "Sasha",
+    "last-name": "Kurtiak",
+    "age": "16",
+    "course": "Drawing",
+    "faculty": "Instructor",
+    "course-list": "Drawing, English, Reading"
+  }
+]
